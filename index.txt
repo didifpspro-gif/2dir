@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:0,Filmes Lançamentos da Semana
+http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
+#EXTINF:0, Jogos do Dia
+http://cdn.xcore.ca:80/live/hjpyai/z6y2hh/86702.ts
 #EXTINF:0,A&E 4K
 http://asxc.pro:80/887429/DNFgcu/90647.ts
 #EXTINF:0,A&E FHD
