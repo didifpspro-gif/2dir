@@ -1976,3 +1976,30 @@ http://asxc.pro:80/887429/DNFgcu/104937.ts
 http://asxc.pro:80/887429/DNFgcu/104935.ts
 #EXTINF:-1,Zoomoo SD
 http://asxc.pro:80/887429/DNFgcu/104936.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORNO",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4LiFCw20IFVUhOjrWDtjiH3veuWeXsaPa_RPtG8hnw&s=10" group-title="PORNO", Banana HD
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs1cdn.adultempire.com/products/83/2527983h.jpg" group-title="PORNO", Legal porno
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYmRqrdU9Isy7goBy5xisV0VcsTCSvET8hBXA3QE9Pw&s" group-title="PORNO", Ero Luxe Publicagent
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97159/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/39/1/trans-angels-logo-png_seeklogo-395083.png" group-title="PORNO", Trans Angel
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-assets.thehun.net/hosted/hustlercash/hustlerhd/included.jpeg" group-title="PORNO", Hustler HD
+http://newsr1.roshen.live:8080/nVJI3fCpKr/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-assets.thehun.net/hosted/hustlercash/hustlerhd/included.jpeg" group-title="PORNO", Hustler Blue
+http://newsr1.roshen.live:8080/70s5oC8mvp/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb-cdn77.xvideos-cdn.com/445e6477-eba7-4617-a142-e3d2baa7a2c9/0/xv_30_p.jpg" group-title="PORNO", Babes
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tronix.gr/wp-content/uploads/2024/04/braz-tv_-N-L.png" group-title="PORNO", Brazzers TV Europa
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/910/manifest.m3u8
+
