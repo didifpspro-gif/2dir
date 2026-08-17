@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0, mini serie, Troca Fatal
-https://www.youtube.com/watch?app=desktop&v=TcfcHU9Px38
 #EXTINF:0, Chapolin | 24h
 http://dns.explouddev.com/live/287945811/148063/232227.m3u8
 #EXTINF:0, Chaves | 24h
