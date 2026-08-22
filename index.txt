@@ -1,54 +1,435 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:0, Chapolin | 24h
-http://dns.explouddev.com/live/287945811/148063/232227.m3u8
-#EXTINF:0, Chaves | 24h
-http://dns.explouddev.com/live/287945811/148063/232224.m3u8
-#EXTINF:-1,BR: TODO MUNDO ODEIA O CHRIS 24horas (720p)
-https://shre.ink/GEHD
-#EXTINF:0, Discovery Channel
-http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/691968
-#EXTINF:0, Discovery Channel HD
-http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-#EXTINF:0, Discovery Home & Health
-http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/691972
-#EXTINF:0, Discovery Home & Health HD
-http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
-#EXTINF:0, Globo
-http://dns.explouddev.com/live/287945811/148063/2452.m3u8
-#EXTINF:59, Globo Rio Hd
-http://dns.explouddev.com/live/287945811/148063/2376.m3u8
-#EXTINF:0, Globoplay Novelas fHD
-http://s2.micineovs.com/VIVA/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:0, Globoplay Novelas HD
-http://79.127.238.228:14455/m3u8
-#EXTINF:0, Globoplay Novelas HD²
-http://38.247.134.19:80/live/92370341211/30082393260/59889
-#EXTINF:0, viva sd
-http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/692478
-#EXTINF:0, Lifetime HD
-http://138.255.2.6:8084/LIFETIME/index.m3u8
-#EXTINF:0, Lifetime HD
-http://dns.explouddev.com/live/287945811/148063/2488.m3u8
-#EXTINF:0, Record SP
-http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/692334
-#EXTINF:0, Record TV | RioHD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
-#EXTINF:0, Record TV | SP HD
-http://79.127.238.228:14057/m3u8
-#EXTINF:0, Record TV | SP HD²
-http://79.127.243.211:14640/Registro
-#EXTINF:0, Record TV | SP-HD
-http://s2.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:0, TLC
-http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/692438
-#EXTINF:0, TLC HD
-http://79.127.238.228:14433/TLC
-#EXTINF:0, TNT Novelas HD
-http://dns.explouddev.com/live/992005733/61992005733/264555.m3u8
-#EXTINF:0,SBT | SP HD
-http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:0,SBT | SP-HD
-https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8
-#EXTINF:0,TV Aratu | BA HD
+
+#EXTINF:-1,BR: CHESPIRITO (480p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
+
+#EXTINF:-1,BR: SBT BRASIL (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1085.m3u8
+
+#EXTINF:-1,BR: SBT (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1086.m3u8
+
+#EXTINF:-1,BR: SBT ARATU(720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+
+#EXTINF:-1,BR: RECORD (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1098.m3u8
+
+#EXTINF:-1,BR: RECORD (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1097.m3u8
+
+---GLOBO----------------------------------------
+
+#EXTINF:-1,BR: GLOBOSP (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1132.m3u8
+
+#EXTINF:-1,BR: GLOBOSP (1080p)
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+#EXTINF:-1,BR: GLOBO 1 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1134.m3u8
+
+#EXTINF:-1,BR: GLOBO 2 (720p)
+http://190.83.85.68/globo/index.m3u8
+
+#EXTINF:-1,BR: GLOBO 3 (1080p)
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+#EXTINF:-1,BR: GLOBO BAHIA (1080p)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+---NOVELAS------------------------------------
+
+#EXTINF:-1,BR: 1GLOBOPLAY NOVELAS HD (1080p)
+http://79.127.238.228:14455/m3u8
+
+#EXTINF:-1,BR: 2GLOBOPLAY NOVELAS HD (1080p)
+http://38.247.134.19/live/92370341211/30082393260/59889
+
+#EXTINF:-1,BR: TNT NOVELAS HD (1080p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1,BR: MALHAÇÃO FAST¹(1080p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,BR: MALHAÇÃO FAST2 (1080p)
+https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+
+#EXTINF:-1,BR: REDE NOVELAS HD (1080p)
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
+
+
+#EXTINF:-1,BR: NOVELAS PRIME(1080p)
+https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
+
+#EXTINF:-1,BR: SBT NOVELAS(1080p)
+http://dns.explouddev.com/live/287945811/148063/390578.m3u8
+
+---DESENHOS-----------------------------------
+
+#EXTINF:-1,BR: CARTOON NETWORK (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1168.m3u8
+
+#EXTINF:-1,BR: CARTOONITO (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1167.m3u8
+
+#EXTINF:-1,BR: DISCOVERY KIDS (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1153.m3u8
+
+#EXTINF:-1,BR: GLOOBINHO (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1113.m3u8
+
+#EXTINF:-1,BR: GLOOB (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1130.m3u8
+
+#EXTINF:-1,BR: TOOCAST (720P)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1066.m3u8
+
+#EXTINF:-1,BR: HBO FAMILY (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.m3u8
+
+---SPORTS-------------------------------------
+
+#EXTINF:-1,BR: JOGOS DO DIA
+http://cdn.xcore.ca:80/live/hjpyai/z6y2hh/86702.ts
+
+#EXTINF:-1,BR: PREMIERE (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
+
+#EXTINF:-1,BR: PREMIERE1 (1080p)	
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
+
+#EXTINF:-1,BR: PREMIERE 2
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.m3u8
+
+#EXTINF:-1,BR: CAZETV (1080p)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1,BR: ESPN (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.m3u8
+
+#EXTINF:-1,BR: ESPN3 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.m3u8
+
+#EXTINF:-1,BR: ESPN4 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.m3u8
+
+#EXTINF:-1,BR: ESPN6 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1131.m3u8
+
+#EXTINF:-1,BR: SPORTV (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
+
+#EXTINF:-1,BR: SPORTV 2 (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
+
+#EXTINF:-1,BR: SPORTV 3 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
+
+#EXTINF:-1,BR: BAND SPORTS (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
+
+#EXTINF:-1,BR: COMBATE (720p)
+
+
+---SERIES------------------------------------
+#EXTINF:-1,BR: PLAYPOCA SERIES (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1105.m3u8
+
+#EXTINF:-1,BR: TNT SERIES (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.m3u8
+
+#EXTINF:-1,BR: SERIES CLASSICAS (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1087.m3u8
+
+#EXTINF:-1,BR: TV MON HD SERIES CLASSICAS
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1658604999.m3u8
+
+#EXTINF:-1,BR: CONEXAO TV-SERIES
+https://pop.uniquetv.com.br/tvconexao/video.m3u8
+
+
+---FILMES------------------------------------
+
+#EXTINF:0, RUN:TIME TV FILMES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1,BR: MEGAPIX (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
+
+#EXTINF:-1,BR: HBO (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
+
+#EXTINF:-1,BR: HBO2 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
+
+#EXTINF:-1,BR: PLAYPOCA FILMES (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1106.m3u8
+
+#EXTINF:-1,BR: TNT (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
+
+#EXTINF:-1,BR: CINEMAX (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.m3u8
+
+#EXTINF:-1,BR: CLASSIQUE TV (480p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1162.m3u8
+
+#EXTINF:-1,BR: TELECINE ACTION (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.m3u8
+
+#EXTINF:-1,BR:TELECINE PREMIUM (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.m3u8
+
+#EXTINF:-1,BR:TELECINE PIPOCA (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.m3u8
+
+#EXTINF:-1,BR: SPACE (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1082.m3u8
+
+#EXTINF:-1,BR: TVNA FILMES
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
+
+#EXTINF:-1,BR: TCM (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1077.m3u8
+
+#EXTINF:-1,BR: TCM (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1076.m3u8
+
+#EXTINF:-1,BR: MOVIE SPHERE (1080p)
+https://stream.ads.ottera.tv/cl/260818da1ref6vh68c7389rnk0/1920x1080_6046040_3_f.m3u8?i=728_6178
+
+#EXTINF:-1,BR: MYTIME MOVIE NETWORK (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+---RELIGIAO-----------------------------------
+
+#EXTINF:-1,BR: RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1,BR: DESPERTAR TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+
+#EXTINF:-1,BR: REDE SUPER (720p)
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w450420801.m3u8
+
+#EXTINF:-1,BR: REDE GOSPEL (720p)
+http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/692340
+
+#EXTINF:-1,BR: GOSPEL MOVIES (480p)
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/52
+
+#EXTINF:-1,BR: TV PAI ETERNO (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1108.m3u8
+
+#EXTINF:-1,BR: Boa vontade
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
+
+#EXTINF:-1,BR: CANÇAO NOVA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1169.m3u8
+
+#EXTINF:-1,BR: REDE SECULO 21  (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1084.m3u8
+#EXTINF:-1,BR: REDE SECULO 21  (1080p)
+
+#EXTINF:-1,BR: REDEVIDA  (1080p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1088.m3u8
+
+#EXTINF:-1,BR: REDEVIDA  (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1095.m3u8
+
+---NOTICIAS-----------------------------------
+
+#EXTINF:-1,BR: RECORD NEWS (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1096.m3u8
+
+#EXTINF:-1,BR: JP NEWS (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1119.m3u8
+
+#EXTINF:-1,BR: CNN BRASIL (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1161.m3u8
+
+
+
+---GASTRONOMIA--------------------------------
+#EXTINF:-1,BR: CHEF TV (720p)
+http://45.190.28.50/CHEF_TV/index.m3u8
+
+#EXTINF:-1,BR: SABOR & ARTE (720p)
+http://websafety101.net:5050/wbmoore1646@gmail.com/s8CiGyecfx/692347
+
+#EXTINF:-1,BR: RECEITA FAST (1080p)
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+
+---VARIEDADES---------------------------------
+
+#EXTINF:-1,BR: TV ZOOM NOVA FRIBURGO (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
+ 
+#EXTINF:-1,BR: LIFETIME(720p)
+http://dns.explouddev.com/live/287945811/148063/2488.m3u8
+
+#EXTINF:-1,BR: TLC(720p)
+http://79.127.238.228:14433/TLC
+ 
+#EXTINF:-1,BR: BAND (720p)
+ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1175.m3u8
+  
+#EXTINF:-1,BR: BAND (720p)
+ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1176.m3u8
+ 
+#EXTINF:-1,BR: REDE TV NEWS (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1089.m3u8
+ 
+#EXTINF:-1,BR: GNT (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1129.m3u8
+
+#EXTINF:-1,BR: GAZETA (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1135.m3u8
+
+#EXTINF:-1,BR: DISCOVERY WORLD (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1149.m3u8
+
+#EXTINF:-1,BR: TURBO DISCOVERY (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1150.m3u8
+
+#EXTINF:-1,BR: TRAVEL FOOD (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1137.m3u8
+
+#EXTINF:-1,BR: FISHTV (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
+
+#EXTINF:-1,BR: CNT (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1160.m3u8
+
+#EXTINF:-1,BR: MULTISHOW (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1081.m3u8
+
+#EXTINF:-1,BR: CINE BRASIL TV (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1164.m3u8
+
+#EXTINF:-1,BR: CANAL SAUDE (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1170.m3u8
+
+#EXTINF:-1,BR: ARTE1 (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1178.m3u8
+
+#EXTINF:-1,BR: SEM NONE2 (480p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1051.m3u8
+
+#EXTINF:-1,BR: NGT (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1091.m3u8
+
+#EXTINF:-1,BR: ADULT SWIM (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.m3u8
+
+---DOCUMENTARIOS--------------------------------
+
+#EXTINF:-1,BR: DISCOVERY CHANNEL (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.m3u8
+
+#EXTINF:-1,BR: H2 +
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1120.m3u8
+
+#EXTINF:-1,BR: DISCOVERY THEATER (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1151.m3u8
+
+#EXTINF:-1,BR: DISCOVERY SCIENCE (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.m3u8
+
+#EXTINF:-1,BR: DISCOVERY ID (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.m3u8
+
+#EXTINF:-1,BR: ANIMAL PLANET (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.m3u8
+
+
+#EXTINF:-1,BR: TV SENADO (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1056.m3u8
+
+#EXTINF:-1,BR: TV JUSTIÇA (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1058.m3u8
+
+#EXTINF:-1,BR: SESC TV (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1062.m3u8
+
+#EXTINF:-1,BR: SESC TV (720p)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1083.m3u8
+
+---MUSICA-------------------------------------
+
+#EXTINF:-1,BR: MUSIC POP
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1143.m3u8
+
+#EXTINF:-1,BR: MUSIC PARTY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1144.m3u8
+
+#EXTINF:-1,BR: MUSIC HITS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1146.m3u8
+
+#EXTINF:-1,BR: MUSIC CLASSICS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1147.m3u8
+
+#EXTINF:-1,BR: MUSIC BLACK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1148.m3u8
+
+#EXTINF:-1,BR: MUSIC LATINO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1145.m3u8
+
+#EXTINF:-1,BR: MUSIC ROCK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1142.m3u8
+
+---RURAL-------------------------------------------
+
+#EXTINF:-1,BR: CANAL RURAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1171.m3u8
+
+#EXTINF:-1,BR:CANAL DO BOI
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1172.m3u8
+
+
+#EXTINF:-1,BR:AGRO CANAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1180.m3u8
+
+
+---XXX----------------------------------------------
+
+#EXTINF:-1,BR: MONSTER (720p)
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1,BR: EROLUXE BRUNETTE (720p)
+http://ottlinks.club/hls/7jic59vkp2tz/1710.m3u8
+
+#EXTINF:-1,BR: OLERO (720p)
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1,BR: OX-AX (720p)
+http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1,BR: LEGAL PORNO (1080p)
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1,BR: PENTHOUSE REALITY TV (720p)
+http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1,BR: BRAZZERS TV (720p)
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+
+#EXTINF:-1,BR: BARELY LEGAL TV (720p)
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+
+#EXTINF:-1,BR: BLUE HUSTLER (720p)
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+
+#EXTINF:-1,BR: RUSSKAYA NOCH (720p)
+http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+
+#EXTINF:-1,BR: HUSTLERHD (720p)
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158501
+
+
