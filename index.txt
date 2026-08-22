@@ -140,7 +140,7 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
 
 #EXTINF:-1,BR: COMBATE (720p)
-
+https://shre.ink/GKqm
 
 ---SERIES------------------------------------
 
