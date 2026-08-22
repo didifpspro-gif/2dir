@@ -3,6 +3,12 @@
 #EXTINF:-1,BR: CHESPIRITO (480p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
 
+#EXTINF:0, Chapolin | 24h
+http://dns.explouddev.com/live/287945811/148063/232227.m3u8
+
+#EXTINF:0, Chaves | 24h
+http://dns.explouddev.com/live/287945811/148063/232224.m3u8
+
 #EXTINF:-1,BR: SBT BRASIL (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1085.m3u8
 
