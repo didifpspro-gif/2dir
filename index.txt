@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,BR: TODO MUNDO ODEIA O CHRIS (720p)
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2F24h_odeiachris.m3u8
+
 #EXTINF:-1,BR: CHESPIRITO (480p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
 
