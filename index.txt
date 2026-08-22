@@ -134,6 +134,7 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
 
 
 ---SERIES------------------------------------
+
 #EXTINF:-1,BR: PLAYPOCA SERIES (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1105.m3u8
 
@@ -250,9 +251,8 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1119.m3u8
 #EXTINF:-1,BR: CNN BRASIL (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1161.m3u8
 
-
-
 ---GASTRONOMIA--------------------------------
+
 #EXTINF:-1,BR: CHEF TV (720p)
 http://45.190.28.50/CHEF_TV/index.m3u8
 
@@ -395,7 +395,6 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1172.m3u8
 
 #EXTINF:-1,BR:AGRO CANAL
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1180.m3u8
-
 
 ---XXX----------------------------------------------
 
