@@ -58,6 +58,9 @@ http://38.247.134.19/live/92370341211/30082393260/59889
 #EXTINF:-1,BR: TNT NOVELAS HD (1080p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 
+#EXTINF:-1,BR: BS TV ONLINE (720p)
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1924246017.m3u8
+
 #EXTINF:-1,BR: MALHAÇÃO FAST¹(1080p)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 
