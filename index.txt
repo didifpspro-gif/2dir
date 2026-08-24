@@ -159,6 +159,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w165860499
 #EXTINF:-1,BR: CONEXAO TV-SERIES
 https://pop.uniquetv.com.br/tvconexao/video.m3u8
 
+#EXTINF:-1,BR: REVIVA TV  (720p)
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 ---FILMES------------------------------------
 
@@ -233,7 +235,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/52
 #EXTINF:-1,BR: TV PAI ETERNO (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1108.m3u8
 
-#EXTINF:-1,BR: Boa vontade
+#EXTINF:-1,BR: BOA VONTADE
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
 
 #EXTINF:-1,BR: CANÇAO NOVA
@@ -277,10 +279,10 @@ https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/ind
 #EXTINF:-1,BR: TV ZOOM NOVA FRIBURGO (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH (720p)
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH 1(720p)
 http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
 
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH (720p)
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH 2 (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
  
 #EXTINF:-1,BR: LIFETIME(720p)
