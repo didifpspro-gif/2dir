@@ -49,8 +49,11 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 ---NOVELAS------------------------------------
 
-#EXTINF:-1,BR: 1GLOBOPLAY TEMPORARIO
-https://lizipura.drpneumoultramicocobambu.lat/docs/templo14/__index.txt?token=eyJ2IjoyLCJzdCI6MSwicyI6InRlbXBsbzE0IiwicCI6InYxLnJkc2UubGF0IiwicGF0aCI6Ii90ZW1wbG8xNC9pbmRleC50eHQiLCJlIjoxNzg3NjI4NDEyLCJqIjoiYTRlNGFiOWQtNzEzNC00YzRhLWE2YjMtZjA0ZjYxNzA2NzIxIiwiaWF0IjoxNzg3NjI0ODEyLCJycyI6Imdsb2JvcGxheW5vdmVsYXMifQ.8832b7f92968f5bdea1608f1509bd38dcb4c565feb1cce59eadedd89ddcac62f
+#EXTINF:-1,BR: 1GLOBOPLAY TEMPORARIO 1
+https://d756d3d2b9dac72449a6a6926534558a.s21-cloudfront-net.lat/embedtv/230051ba2fa6e8b30a60d7a4406a4a2b/file.txt
+
+#EXTINF:-1,BR: 1GLOBOPLAY TEMPORARIO 2
+https://2408.cdn13embed.xyz/globoplaynovelas/index.m3u8
 
 #EXTINF:-1,BR: 1GLOBOPLAY NOVELAS HD (1080p)
 http://79.127.238.228:14455/m3u8
