@@ -55,6 +55,9 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1,BR: 1GLOBOPLAY TEMPORARIO 1
 https://2708.cdn10embed.xyz/globoplaynovelas/index.m3u8
 
+#EXTINF:-1,BR: 1GLOBOPLAY TEMPORARIO 2
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Fglobonovelas.m3u8
+
 #EXTINF:-1,BR: 1GLOBOPLAY NOVELAS HD (1080p)
 http://79.127.238.228:14455/m3u8
 
