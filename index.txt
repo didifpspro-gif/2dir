@@ -314,8 +314,11 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
 #EXTINF:-1,BR: LIFETIME(720p)
 http://dns.explouddev.com/live/287945811/148063/2488.m3u8
 
-#EXTINF:-1,BR: TLC(720p)
+#EXTINF:-1,BR: TLC 1(720p)
 http://79.127.238.228:14433/TLC
+
+#EXTINF:-1,BR: TLC 2(720p)
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Ftlc.m3u8
  
 #EXTINF:-1,BR: BAND (720p)
  http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1175.m3u8
