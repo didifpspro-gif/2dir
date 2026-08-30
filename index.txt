@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,BR: MINI SERIE DO DIA.Na Palma da Sua Mão (720p)
-https://drive.usercontent.google.com/download?id=1nWYuFGPdupbJX5XtLFi3d3JhGR86GxdW&export=download&authuser=0&confirm=t&uuid=be4bf110-bae6-48e1-9c0b-794a427d5cb7&at=AFYLz4PqVaW5rouN0gNHuWfj6pOC:1787702914793
+#EXTINF:-1,BR: MINI SERIE DO DIA.O_Grande_e_Poderoso_Gênio (1080p)
+https://drive.usercontent.google.com/download?id=1mMjLnA_RXRDcXXjAzp52jO9OVZ4Pt08Y&export=download&authuser=0&confirm=t&uuid=bb01b348-a436-4867-951c-a3292a9adc3c
 
 #EXTINF:-1,BR: TODO MUNDO ODEIA O CHRIS (720p)
 https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2F24h_odeiachris.m3u8
