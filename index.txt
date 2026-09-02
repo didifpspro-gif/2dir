@@ -27,6 +27,12 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1,BR: RECORD RJ (720p)
 https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Frecordrj.m3u8
 
+#EXTINF:-1,BR: RECORD SP (720p)
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Frecordsp.m3u8
+
+#EXTINF:-1,BR: RECORD MG (720p)
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Frecordmg.m3u8
+
 #EXTINF:-1,BR: RECORD (720p)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1098.m3u8
 
