@@ -33,9 +33,11 @@ http://79.127.238.228:14433/TLC
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRpFjq_2Sb9mwB9PXfGNFTcyg3WHwXIk6aIiLnEbIww&s=10" group-title="VARIEDADES",  TLC 2
 https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Ftlc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true" group-title="Canais | NOVELAS", GLOBOPLAY NOVELAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true" group-title="Canais | NOVELAS", GLOBOPLAY NOVELAS HD 1
 http://79.127.238.228:14455/m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true" group-title="Canais | NOVELAS", GLOBOPLAY NOVELAS HD 2
+http://38.247.134.19/live/92370341211/30082393260/59889
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS", TNT NOVELAS HD
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
