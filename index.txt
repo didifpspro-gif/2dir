@@ -7,17 +7,17 @@ http://dns.explouddev.com/live/287945811/148063/232227.m3u8
 http://dns.explouddev.com/live/287945811/148063/232227.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1r94zrla0glo-cloudfront.vercel.app/sinalpublico/foto/embed/discoveryhh.png" group-title="VARIEDADES", DISCOVERY H&H 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSald0yqhZrwsYICVcmngzAdkZ0u0hsPHPK5ZFH8y_wqseU0wf-6gJmg&s=10" group-title="VARIEDADES", DISCOVERY H&H 1
 http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1r94zrla0glo-cloudfront.vercel.app/sinalpublico/foto/embed/discoveryhh.png" group-title="VARIEDADES", DISCOVERY H&H 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSald0yqhZrwsYICVcmngzAdkZ0u0hsPHPK5ZFH8y_wqseU0wf-6gJmg&s=10" group-title="VARIEDADES", DISCOVERY H&H 2
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1r94zrla0glo-cloudfront.vercel.app/sinalpublico/foto/embed/discoveryhh.png" group-title="VARIEDADES", DISCOVERY H&H 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSald0yqhZrwsYICVcmngzAdkZ0u0hsPHPK5ZFH8y_wqseU0wf-6gJmg&s=10" group-title="VARIEDADES", DISCOVERY H&H 3
 https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/%2Fdiscoveryhh.m3u8
 
 
@@ -75,11 +75,11 @@ http://200.77.176.130/SBT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="VARIEDADES", SBT RIO
 http://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.102.252.201/static/logos/canais/discoverychannel.png" gro" group-title="VARIEDADES", Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0RqofikonhP-FzvRAr9Fs3T8VZ4zT2m6Wq3dv6Y_2A&s=10" gro" group-title="VARIEDADES", Discovery Channel HD
 http://149.102.252.201:80/171350/B89tAq/71865.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.102.252.201/static/logos/canais/discoverychannel.png" group-title="VARIEDADES", Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0RqofikonhP-FzvRAr9Fs3T8VZ4zT2m6Wq3dv6Y_2A&s=10" group-title="VARIEDADES", Discovery Channel SD
 http://149.102.252.201:80/171350/B89tAq/71866.ts
 
 
