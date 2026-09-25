@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_oGeZw0YNjXmkzmTsBaM8aMjJ3LTRnb-7_mPHqdbeVw&s=10" group-title="24 HORAS", CHAVES 
+http://dns.explouddev.com/live/287945811/148063/232227.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3pP_qrTPNpQogItaFVgiiXTm-Lx3J8e3Cqtl6CRDFA&s=10" group-title="24 HORAS", CHAPOLIN
+http://dns.explouddev.com/live/287945811/148063/232227.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1r94zrla0glo-cloudfront.vercel.app/sinalpublico/foto/embed/discoveryhh.png" group-title="VARIEDADES", DISCOVERY H&H 1
