@@ -78,7 +78,7 @@ http://200.77.176.130/SBT/index.m3u8
 http://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0RqofikonhP-FzvRAr9Fs3T8VZ4zT2m6Wq3dv6Y_2A&s=10" gro" group-title="VARIEDADES", Discovery Channel HD
-http://149.102.252.201:80/171350/B89tAq/71865.ts
+https://f8umt2oop68t.sbs/live/secure/m9b7WkBm9QuqTQdhJy-bLzRG6324iL9IUjjd78JVOnI/1790397230/dbbaed95d95cadad/discoverychannel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0RqofikonhP-FzvRAr9Fs3T8VZ4zT2m6Wq3dv6Y_2A&s=10" group-title="VARIEDADES", Discovery Channel SD
